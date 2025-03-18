@@ -1,1 +1,1 @@
-# inmmerce class
+# inmmerce issue #6

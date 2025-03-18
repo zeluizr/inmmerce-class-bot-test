@@ -1,1 +1,1 @@
-# inmmerce bot
+# inmmerce class
